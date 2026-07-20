@@ -1,0 +1,16 @@
+ARBPL,KTEXT,CAPACITY_HRS_DAY,COST_CENTER
+WC-101,Work Center 1,24,
+WC-102,Work Center 2,24,CC-4000
+WC-103,Work Center 3,16,
+WC-104,Work Center 4,8,cc-4200
+WC-105,Work Center 5,16,CC-4000
+WC-106,Work Center 6,,cc-4200
+WC-107,Work Center 7,,CC-4000
+WC-108,Work Center 8,16,CC-4000
+WC-109,Work Center 9,8,cc-4200
+WC-110,Work Center 10,,CC-4000
+WC-111,Work Center 11,8,CC-4100
+WC-112,Work Center 12,16,
+WC-113,Work Center 13,,cc-4200
+WC-114,Work Center 14,,CC-4100
+WC-115,Work Center 15,,CC-4000
