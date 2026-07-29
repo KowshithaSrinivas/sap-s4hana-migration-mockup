@@ -6,6 +6,10 @@ A self-directed project simulating an end-to-end master data migration into SAP 
 scoped to match a real Master Data Migration Expert role: Material Master, Bill of
 Materials (BOM), Work Centers, and Routings.
 
+![Migration Pipeline](docs/images/pipeline_flow_diagram.png)
+![Readiness Scorecard](docs/images/readiness_scorecard.png)
+![Data Mapping Sample](docs/images/mapping_spec_table.png)
+
 ## Why this project
 Built to apply existing ETL/data-quality experience (SQL, Python, multi-source ERP
 consolidation) directly to SAP S/4HANA migration methodology — data mapping,
